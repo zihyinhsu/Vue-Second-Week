@@ -1,0 +1,14 @@
+img {
+    object-fit: cover;
+    background-position: right 35% bottom 45%;
+    max-width: 100%;
+  }
+  
+  .primary-image {
+    height: 300px;
+  }
+  
+  .images {
+    width: 150px;
+    height: 150px;
+  }
